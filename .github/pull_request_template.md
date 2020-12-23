@@ -1,11 +1,11 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# Resource Name - Edit this line
 
-Edit this line with Small Description about new added resource
+# 1 Line Layouts - CSS Methodologies
 
-Link: www.linkToResource
+10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be.
+
+Link: https://1linelayouts.glitch.me/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [x] I have performed a self-review of submitted resource and its follows the guidelines of the project.
